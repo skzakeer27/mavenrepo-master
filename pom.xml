@@ -45,7 +45,8 @@
   <properties>
   <!-- Other properties -->
   <sonar.host.url>http://15.207.18.65:9000/</sonar.host.url>
-    <sonar.login>squ_4885504960f98ccceced40bc8397be631dc97b0f</sonar.login>
+       <sonar.login>sonar</sonar.login>
+       <sonar.password>password</sonar.password>
      <sonar.java.binaries>src/</sonar.java.binaries>
 </properties>
   <dependencies>
