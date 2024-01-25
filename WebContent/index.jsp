@@ -15,36 +15,36 @@ div.ex {
 }
 </style>
 <body>
-	<h1>Student Registration Form</h1>
+	<h1>Employee Management System</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
 				<tr>
-					<td>Student Full Name</td>
+					<td>Employee Name</td>
 					<td><input type="text" name="fullname"/></td>
 				</tr>
 				<tr>
-					<td>Student Father Name</td>
+					<td>Employee Id</td>
 					<td><input type="text" name="fullname"/></td>
 				</tr>
 				<tr>
-					<td>Student Permanent Address</td>
+					<td>Employee Task</td>
 					<td><input type="text" name="address"/></td>
 				</tr>
 				<tr>
-					<td>Student Age</td>
+					<td>Employee Contact</td>
 					<td><input type="text" name="age"/></td>
 				</tr>
 				<tr>
-					<td>Student Qualification</td>
+					<td>Task Progress</td>
 					<td><input type="text" name="qual"/></td>
 				</tr>
 				<tr>
-					<td>Student Percentage</td>
+					<td>Task Status </td>
 					<td><input type="text" name="percent"/></td>
 				</tr>
 				<tr>
-					<td>Year Passed</td>
+					<td>Task Timeline</td>
 					<td><input type="text" name="yop"/></td>
 				</tr>
 			</table>
