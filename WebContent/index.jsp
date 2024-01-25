@@ -28,7 +28,7 @@ div.ex {
 					<td><input type="text" name="fullname"/></td>
 				</tr>
 				<tr>
-					<td>Employee Task</td>
+					<td>Employee Address</td>
 					<td><input type="text" name="address"/></td>
 				</tr>
 				<tr>
@@ -36,7 +36,7 @@ div.ex {
 					<td><input type="text" name="age"/></td>
 				</tr>
 				<tr>
-					<td>Task Progress</td>
+					<td>Task Assigned</td>
 					<td><input type="text" name="qual"/></td>
 				</tr>
 				<tr>
@@ -44,7 +44,7 @@ div.ex {
 					<td><input type="text" name="percent"/></td>
 				</tr>
 				<tr>
-					<td>Task Timeline</td>
+					<td>Joining Date</td>
 					<td><input type="text" name="yop"/></td>
 				</tr>
 			</table>
