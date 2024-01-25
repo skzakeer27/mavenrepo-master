@@ -33,12 +33,12 @@
    <distributionManagement>
         <repository>
             <id>nexus</id>
-            <name>student Releases</name>
+            <name>employee-management-system Releases</name>
             <url>http://3.110.160.190:8081/repository/vr-release/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <name>student Snapshot </name>
+            <name>employee-management-system Snapshot </name>
             <url>http://3.110.160.190:8081/repository/vr-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
